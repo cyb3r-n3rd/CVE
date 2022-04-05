@@ -26,4 +26,5 @@ Step4: Wait for the admin to click on the link
 Step5: you will see the popup and getting admin cookies Confirming the Execution of payload
 
 POC: 
+![Screenshot (217)](https://user-images.githubusercontent.com/71320606/161679689-af4f576f-1df9-46a4-9c65-86d168e3f277.png)
 

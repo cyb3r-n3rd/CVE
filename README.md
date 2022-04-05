@@ -5,7 +5,7 @@ This is my Repo for the CVE MITRE
 
 # Exploit Title: [Stored Cross Site Scripting]
 # Date: 05/04/2022
-# Exploit Author: [Shivam Verma]
+# Exploit Author: [Shivam Verma(cyb3r_n3rd)]
 # Vendor Homepage: [https://www.click2magic.com/]
 # Software Link: [https://play.google.com/store/apps/details?id=com.tvisha.click2magic&hl=en_IN]
 # Version: [1.1.5] 

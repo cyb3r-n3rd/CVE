@@ -28,3 +28,6 @@ Step5: you will see the popup and getting admin cookies Confirming the Execution
 POC: 
 ![Screenshot (217)](https://user-images.githubusercontent.com/71320606/161679689-af4f576f-1df9-46a4-9c65-86d168e3f277.png)
 
+Admin Account takeover Screenshot
+
+![WhatsApp Image 2022-04-05 at 10 47 03 AM](https://user-images.githubusercontent.com/71320606/161683950-e137aea3-f505-4162-bd82-405cfeb53c85.jpeg)
